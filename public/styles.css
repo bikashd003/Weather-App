@@ -1,0 +1,11 @@
+html {
+  /* background-image: url("https://images.unsplash.com/photo-1673790120533-12697d88aa59?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1631&q=80");
+  background-repeat: no-repeat;
+  background-size: cover; */
+  background: rgb(238, 174, 202);
+  background: radial-gradient(
+    circle,
+    rgba(238, 174, 202, 1) 0%,
+    rgba(72, 205, 193, 1) 100%
+  );
+}
